@@ -7,7 +7,7 @@
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://t.me/Ch3kUtHaN">Telegram</a></li>
 <li>🍼 Ultra noob 👶</li>
-<li>🌱 Trying to learn Python 🧑‍🦯</li>
+<li>🌱 Trying to learn Python 👨‍🦯</li>
 <li>🎧 Love listening to music 🎶</li>
 <li>📫 How to <a href="https://github.com/ch3kuthan/Ch3kUtHaN/blob/main/README.md#%F0%9D%99%B2%F0%9D%99%BE%F0%9D%99%BD%F0%9D%99%BD%F0%9D%99%B4%F0%9D%99%B2%F0%9D%9A%83-%F0%9D%99%BC%F0%9D%99%B4">reach me</a> 📞</li>
 <li>🌐 I'm living in Kerala (<a href="https://ml.m.wikipedia.org/wiki/%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B3%E0%B4%BF">#Mallu</a>), India 🇮🇳</li>
