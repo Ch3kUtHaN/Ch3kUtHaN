@@ -2,7 +2,7 @@
 
 ---
 
-> A𝙱𝙾𝚄𝚃 M𝙴
+> 📌A𝙱𝙾𝚄𝚃 M𝙴
 
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://t.me/Ch3kUtHaN">Telegram</a></li>
@@ -17,13 +17,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-> P𝚁𝙾𝙵𝙸𝙻𝙴 D𝙴𝚃𝙰𝙸𝙻𝚂
+> 📌P𝚁𝙾𝙵𝙸𝙻𝙴 D𝙴𝚃𝙰𝙸𝙻𝚂
 
 <img src="https://komarev.com/ghpvc/?username=ch3kuthan&label=Profile%20views&color=0e75b6&style=flat"> </p>
 ![GitHub followers](https://img.shields.io/github/followers/ch3kuthan?logo=github&style=plastic)
 ---
 
-> G𝚒𝚝𝚑𝚞𝚋
+> 📌G𝚒𝚝𝚑𝚞𝚋
 
 <details>
   <summary>Stats</summary>
@@ -41,7 +41,7 @@
 
 ---
 
-> S𝙿𝙾𝚃𝙸𝙵𝚈 🎶
+> 📌S𝙿𝙾𝚃𝙸𝙵𝚈 🎶
 
 <p align="center"><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/Ch3kUtHaN"><img src="https://novatorem-6wak3o8cm-ch3-spotify.vercel.app/api/spotify" alt="Ch3kUtHaN Now Playing On Spotify" /></a></p>
 
