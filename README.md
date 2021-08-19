@@ -29,14 +29,7 @@
   <summary>Stats</summary>
   <br/>
 <p align="center">
-    <img
-        width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
-    />
-    <img
-        width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
-    />
+    <img align='center' src="https://github-readme-stats.vercel.app/api?username=ch3kuthan&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true">
 </p>
 </details>
 
