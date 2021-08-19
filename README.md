@@ -2,7 +2,7 @@
 
 ---
 
-> <h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=About+Me" width="400px"></h1>
+> <h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=About+Me" width="450px"></h1
 
 <ul align="left">
 <li>🔭 I’m currently working on <a href="https://t.me/Ch3kUtHaN">Telegram</a></li>
