@@ -107,9 +107,7 @@
 
 ---
 
-
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Thanks+For+Visit+My+Github+Profile"</h1>
-
 
 ---
 
