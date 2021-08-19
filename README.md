@@ -80,7 +80,7 @@
             alt="GMail"
         />
     </a>
-    <a href="https://youtube.com/channel/UC1NQaP4-b5OxQB_AQOGGk9g">
+    <a href="https://tinyurl.com/Ch3kUtHaN-YouTube">
         <img
             src="https://img.shields.io/badge/Youtube-black?&style=for-the-badge&logo=youtube" 
             alt="YouTube"
