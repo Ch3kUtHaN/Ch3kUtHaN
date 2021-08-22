@@ -19,7 +19,7 @@
 
 > S𝙿𝙾𝚃𝙸𝙵𝚈 🎶
 
-<p align="center"><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/Ch3kUtHaN"><img src="https://novatorem-6wak3o8cm-ch3-spotify.vercel.app/api/spotify" alt="Ch3kUtHaN Now Playing On Spotify" width="180"/></a></p>
+<p align="left"><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/Ch3kUtHaN"><img src="https://novatorem-6wak3o8cm-ch3-spotify.vercel.app/api/spotify" alt="Ch3kUtHaN Now Playing On Spotify" width="150"/></a></p>
 
 ---
 
