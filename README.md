@@ -17,10 +17,6 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-> S𝙿𝙾𝚃𝙸𝙵𝚈 🎶
-
-<p align="left"><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/Ch3kUtHaN"><img src="https://novatorem-6wak3o8cm-ch3-spotify.vercel.app/api/spotify" alt="Ch3kUtHaN Now Playing On Spotify" width="170"/></a></p>
-
 ---
 
 > P𝚁𝙾𝙵𝙸𝙻𝙴 D𝙴𝚃𝙰𝙸𝙻𝚂
