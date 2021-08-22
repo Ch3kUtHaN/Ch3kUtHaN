@@ -13,9 +13,9 @@
 <li>🌐 I'm living in Kerala (<a href="https://ml.m.wikipedia.org/wiki/%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B3%E0%B4%BF">#Mallu</a>), India 🇮🇳</li>
 </ul>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-
 ---
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 > P𝚁𝙾𝙵𝙸𝙻𝙴 D𝙴𝚃𝙰𝙸𝙻𝚂
 
